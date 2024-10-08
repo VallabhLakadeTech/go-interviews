@@ -1,0 +1,58 @@
+Sachin Naykwadi:
+
+Given an integer array nums and an integer k, return the k most frequent elements. Example 1:
+Input: nums = [1,1,1,2,2,3], k = 2
+Output: [1,2]
+[1]=3
+[2]=2
+[3]=1
+
+
+Golang 
+
+Go1 buffc han to push  without using wait group
+G02 read from buff and uses Wait goroup
+What will happen as output
+
+
+
+How go r runns manage
+Go routine vs Java  how its works
+Go sort method what also it uses..
+
+Given one prog and need to resolve the deadlock by ADDING CLOSE
+
+
+Inc counter but by using  go1 by 1 and go2nd by 2 
+want in specific no of times 
+
+Given an integer array nums and an integer k, return the k most frequent elements. Example 1:
+Input: nums = [1,1,1,2,2,3], k = 2
+Output: [1,2]
+
+
+K8s Deployments differnce 
+CRD
+Pv vs PVC
+Storage class 
+when i hit kubectl get pods - then how the flow in k8s
+
+Services and ingress 
+
+how to make it https
+
+
+Chetan Nimbalkar:
+
+// 1. Odd even with sequence like 1 3 2 5 7 4
+// 2. What is CRD ? what exactly happens in the background ?
+// 3. How to find duplicate in sequence of numbers in O(N) [1, 100]
+// 4. Odd even with sequence like 1 3 2 5 7 4 (with single go routine
+
+// even, odd
+//
+//	generator
+//	buffered channel
+//	two workers consuming
+//	even - consume two values
+//	odd - consume a single value
